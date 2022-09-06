@@ -1,4 +1,4 @@
-# Telecom_User_Analisys
+# Telecom_Curn_Analisys
 
 ![image](https://user-images.githubusercontent.com/109623726/188711382-4b6e429a-c18f-45bd-a262-08e3d2670443.png)
 
