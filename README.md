@@ -1,5 +1,7 @@
 # Telecom_Churn_Analysis
 
+Este proyecto surge de la necesidad de cuantificar la rotación de clientes desde los servicios de 2G en Sagua la Grande, así como calcular el despeje de la banda de frecuencia de 2G, su tráfico y cotización actual para el análisis sobre la inclusión de servicios en esta banda de frecuencia.
+
 ![image](https://user-images.githubusercontent.com/109623726/188711382-4b6e429a-c18f-45bd-a262-08e3d2670443.png)
 
 
