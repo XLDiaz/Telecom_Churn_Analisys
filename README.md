@@ -1,6 +1,9 @@
 # Telecom_Churn_Analysis
 
-Este proyecto surge de la necesidad de cuantificar la rotación de clientes desde los servicios de 2G en Sagua la Grande, así como calcular el despeje de la banda de frecuencia de 2G, su tráfico y cotización actual para el análisis sobre la inclusión de servicios en esta banda de frecuencia.
+Este proyecto fue presentado a la dirección del CTL Sagua la Grande y presentado en el Foro Provincial de la Asociación Nacional de Innovadores y Racionalizadores (ANIR) como ejemplo de análicis completo de la información que brindan las radiobases ubicadas en el centro.
+Surge ante la necesidad de cuantificar los usuarios de telefonía móvil que aún no han dado el salto tecnológico hacia las bandas de servicio de 3G y LTE, analizar una posible estrategia económica y las proyecciones de los clientes para dar dicho salto.
+También pudiera ser útil en el mapeo de frecuencias en servicio en búsqueda interacciones libres que se puedan utilizar en servicios propios a la operación de los distintos centros, de gestion local, comunicación entre operarios y rastero de automóviles. Así como ofertar servicios de este tipo a otras empresas sin saturar la red movil activa en los clientes naturales.
+
 
 ![image](https://user-images.githubusercontent.com/109623726/188711382-4b6e429a-c18f-45bd-a262-08e3d2670443.png)
 
